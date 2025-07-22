@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashish627&label=Profile%20views&color=0e75b6&style=flat" alt="kashish627" /> </p>
 
-- 🔭 I’m currently working on **Climate Change Predection**
-
-- 🌱 I’m currently learning **Power BI**
+- 🔭 I’m currently working as Jr. Python Developer.
 
 - 💬 Ask me about **Tableau, Power BI, Libraries-TensorFlow, Keras, Matplotlib, NumPy, Pandas**
 
